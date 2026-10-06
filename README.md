@@ -21,6 +21,10 @@ The project allows a Yealink BLT60 status light to be used with software that su
 
 ## Hardware
 
+## Prototype
+ 
+![BusyBridge Prototypepg
+
 ### Tested Hardware
 
 - ESP32-S2 Mini
