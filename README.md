@@ -23,7 +23,7 @@ The project allows a Yealink BLT60 status light to be used with software that su
 
 ## Prototype
  
-![BusyBridge Prototype](Busybridge)
+![BusyBridge Prototype.jpg](BusyBridge Prototype)
 
 ### Tested Hardware
 
